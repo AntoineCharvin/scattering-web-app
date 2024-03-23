@@ -1,0 +1,29 @@
+{
+       "gold":{
+              "formula":"2*omega-1"
+       },
+
+       "vacuum":{
+              "epsilon_re":1,
+              "epsilon_im":null,
+              "omega":null
+       },
+
+       "glass":{
+              "epsilon_re":[3.1,3.2,3.6,2],
+              "epsilon_im":null,
+              "omega":[1e3,1e5,1e8,1e9]
+       },
+
+       "zinc":{
+              "epsilon_re":[3.1,3.2,3.6],
+              "epsilon_im":[-2,0,3],
+              "omega":[1e3,1e5,1e7]
+       },
+
+       "water":{
+              "epsilon_re":3,
+              "epsilon_im":-2,
+              "omega":null
+       }
+}

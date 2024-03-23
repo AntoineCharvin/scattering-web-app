@@ -1,0 +1,113 @@
+.choixInput{
+    display:flex;
+    padding: 2%;
+    gap: 2%;
+    max-height: fit-content;
+
+
+}
+
+.formulaireIn{
+    width: 65%;
+
+
+}
+
+.formulaireIn .card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-height: max-content;
+    justify-content: center;
+
+}
+
+
+.sousCartesInput{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 3%;
+ 
+}
+.sousCartesInput .card{
+    width: 49%;
+    font-size: 20px;
+    font-weight: 300;
+    display: flex;
+    flex-direction: column;
+    padding-top: 0;
+    min-height: 50%;
+    
+}
+
+
+.cartemat{
+    width: 49%;
+    display: flex;
+    min-height: 50%;
+}
+.cartemat .card{
+    width: 101%;
+    
+}
+
+.cartemat .card .titre-dnd{
+    width: 100%;
+    justify-content: space-between;
+    padding: 0 1% 0 1%;
+    font-size: 12px;
+    
+}
+
+
+
+
+
+.sousCartesInput h1{
+    font-size: 30px;
+    align-self: center ;
+}
+
+.sousCartesInput p{
+    display: flex;
+    font-size: 14px;
+    align-items: center ;
+    justify-content: left;
+    gap: 5%;
+}
+
+
+
+.infoInput{
+    width: 35%;
+}
+
+.sousCartesInput .titre-dnd{
+    display: flex;
+    width: 100%;
+    font-size: 14px;
+}
+
+.sousCartesInput #form-file-upload{
+    font-size: 60%;
+    width: 60%;
+    height: 20%;
+}
+
+.titre-dnd{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    padding: 0 1% 0 1%;
+}
+
+.choixInput .btn-start-input{
+
+    position: sticky;
+    justify-self: space-between;
+    padding: 3% 5% 1% 5%;
+    
+}
+

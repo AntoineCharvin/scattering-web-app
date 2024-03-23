@@ -1,0 +1,40 @@
+.method{
+    padding: 2%;
+}
+
+.method div{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+
+.carte-fmm-lbf .card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 3%
+}
+
+.method .card .titre-btn-choixmethode {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    gap: 360px;
+    margin: 0% 2% 0% 2%; /* Ajoutez un espacement vertical ici selon vos besoins */
+  }
+
+  .method button{
+    height: 120%;
+    gap: 360px;
+    font-size: 14pt;
+  }
+
+.titre-btn-choixmethode Button{
+font-size: 18px;
+height: 100%;
+  }
+  
+  

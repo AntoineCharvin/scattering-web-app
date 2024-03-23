@@ -1,0 +1,44 @@
+.help >.card{
+    margin: 2%;
+  }
+  
+  .help-step0{
+    font-weight: 500;
+  }
+  
+
+  .help-step {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Deux cartes par ligne */
+    gap: 20px; /* Espacement de 20 pixels entre les cartes */
+    font-weight: 500;
+    height: auto
+  }
+
+  .help-step p {
+    padding: 5px 50px 0px 50px;
+  }
+
+  .help-step li {
+    padding: 4px 20px 0px 20px;
+  }
+
+  .help-step img {
+    width: 100%;
+    height: auto;
+  }
+  
+
+  
+  
+  .help-title {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    align-items: center;
+    font-size: .55rem;
+  }
+
+
+  
+  

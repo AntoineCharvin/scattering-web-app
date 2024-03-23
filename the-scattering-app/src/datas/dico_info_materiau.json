@@ -1,0 +1,13 @@
+{
+    "graphene":{
+        "formula":"mu*T**2+omega"
+    },
+
+    "graphite":{
+        "sigma_re":[1.3,1.2,1.4,1.5,1.9],
+        "sigma_im":[3,0,-1,-2,1],
+        "omega":[1e1,1e3,1e4,1e5,1e7],
+        "T":200,
+        "mu":0.4
+    }
+}

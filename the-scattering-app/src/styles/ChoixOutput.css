@@ -1,0 +1,34 @@
+.ChoixOutput{
+    padding: 2%;
+    height: fit-content;
+}
+
+
+
+.carte-liste-output{
+    display: flex;
+    gap: 3%;
+}
+
+.carte-liste-output .card{
+    display: flex;
+    flex-direction: column;
+    align-items:  center;
+    height: fit-content;
+}
+
+.carte-liste-output .txt-btn{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    justify-content: stretch;
+    margin-top: 8%;
+    margin-bottom: 10%;
+    height: fit-content;
+} 
+
+.carte-liste-output Button {
+    font-size: 18px;
+}
+
+
